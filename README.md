@@ -32,11 +32,11 @@ Un economista aziendale prestato al mondo della ***consulenza*** operativa, con 
 
 # Nel Web
 
-| [Palm Beach](https://palmbeach.vivaldi.net/) | Blog | mainstream | generalista |
-| [Palm Beach - Mastodon](https://social.vivaldi.net/@palmbeach) | Microblog | fediverso | generalista |
-| [Nakamota - Medium](https://medium.com/nakamotas) | Blog | mainstream | economia e cryptosfera |
-| [Phil Palm Beach](https://mastodon.social/home) | Microblog | fediverso| generalista e cryptosfera |
-| [Phil in Fediverse](https://noblogo.org/filippoalbertin) | Blog | fediverso | generalista |
-| [Phil Autonomous Zone](https://filippoalbertin.substack.com/) | Blog e newsletter (anche in abbonamento) | mainstream | visual thinking e risorse aggiuntive |
+* [Palm Beach](https://palmbeach.vivaldi.net/) 
+* [Palm Beach - Mastodon](https://social.vivaldi.net/@palmbeach)
+* [Nakamota - Medium](https://medium.com/nakamotas)
+* [Phil Palm Beach](https://mastodon.social/home)
+* [Phil in Fediverse](https://noblogo.org/filippoalbertin)
+* [Phil Autonomous Zone](https://filippoalbertin.substack.com/)
 
 *(Oltre a questo, nel mio [profilo Github](https://github.com/filippoalbertin) trovi altri social network. I più noti.)*
