@@ -8,16 +8,16 @@ Un economista aziendale prestato al mondo della ***consulenza*** operativa, con 
 
 ## Se vuoi...
 
-| Contattarmi per una consulenza in generale | **filippo@completservice.eu** |
-| Contattarmi per una consulenza su blockchain e cryptomonete | **filippo@bitcoinvenetocenter.it** |
-| Contattarmi per faccende non catalogabili in modo preciso | **albertin@tuta.io** |
-| Contattarmi telefonicamente o via chat (Whatsapp, Telegram) | **+39 350 511 2899** |
+* Contattarmi per una consulenza in generale: **filippo@completservice.eu**
+* Contattarmi per una consulenza su blockchain e cryptomonete: **filippo@bitcoinvenetocenter.it**
+* Contattarmi per faccende non catalogabili in modo preciso: **albertin@tuta.io**
+* Contattarmi telefonicamente o via chat (Whatsapp, Telegram): **+39 350 511 2899**
 
 ## My jobs
 
-| [Complet Service Srls](http://www.completservice.eu) | Consulenza e coordinamento progetti individuali, aziendali e istituzionali |
-| [Bitcoin Veneto Center](http://www.bitcoinvenetocenter.it) | Consulenza operativa e operazioni crypto e blockchain (Italia, Svizzera) |
-| [Veneto Cyber Security](http://www.venetocybersecurity.it) | Protezione globale attacchi informatici per privati e aziende |
+* [Complet Service Srls](http://www.completservice.eu) - Consulenza e coordinamento progetti individuali, aziendali e istituzionali
+* [Bitcoin Veneto Center](http://www.bitcoinvenetocenter.it) - Consulenza operativa e operazioni crypto e blockchain (Italia, Svizzera)
+* [Veneto Cyber Security](http://www.venetocybersecurity.it) - Protezione globale attacchi informatici per privati e aziende
 
 # Quello che faccio *nello specifico*
 
